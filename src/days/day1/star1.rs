@@ -25,7 +25,7 @@ pub fn solve() {
                 total_distance += (first_column[i] - second_column[i]).abs();
             }
 
-            println!("Result: {}",total_distance);
+            println!("Day1, Star1: {}",total_distance);
         }
         Err(_e) => {
             print!("Error detected {}",_e);
