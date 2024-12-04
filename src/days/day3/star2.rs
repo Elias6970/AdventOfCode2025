@@ -29,7 +29,7 @@ pub fn solve(){
 
             }
 
-            println!("Day 2, star 1: {}",result)
+            println!("Day 3, star 1: {}",result)
         }
         Err(_e) => {
             print!("Error detected: {}",_e);
