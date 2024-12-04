@@ -16,4 +16,9 @@ fn main() {
     days::day3::star1::solve();
     #[cfg(feature="day3")]
     days::day3::star2::solve();
+
+    #[cfg(feature="day4")]
+    days::day4::star1::solve();
+    #[cfg(feature="day4")]
+    days::day4::star2::solve();
 }
