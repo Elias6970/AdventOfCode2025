@@ -86,7 +86,7 @@ pub fn solve(){
             }
 
             
-            println!("Day 3, star 1: {}",total_words);
+            println!("Day 4, star 1: {}",total_words);
         }
         Err(_e) => {
             print!("Error detected: {}",_e);
