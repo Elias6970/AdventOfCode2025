@@ -10,7 +10,7 @@ I am learning rust with advent of code.
   >Day 5 :star:  
   >Day 6 :star:  
   >Day 7 :star:  
-  >Day 8  
+  >Day 8 :star:  
   >Day 9  
   >Day 10  
   >Day 11  
