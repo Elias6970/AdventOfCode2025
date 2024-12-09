@@ -111,12 +111,6 @@ pub fn solve(){
                         }
                         
                     }
-                    
-                    /*println!("{:?}",applying_rules);
-                    let mut a:String = String::new();
-                    io::stdin().read_line(&mut a).expect("Hadh"); // Read a line of input and store it in `input`
-                    */
-
                 }
             }
 
