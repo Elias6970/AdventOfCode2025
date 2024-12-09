@@ -37,5 +37,7 @@ fn main() {
 
     #[cfg(feature="day8")]
     days::day8::star1::solve();
+    #[cfg(feature="day8")]
+    days::day8::star2::solve();
     
 }
